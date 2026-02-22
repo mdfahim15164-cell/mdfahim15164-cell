@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Fahim</h1>
+<h3 align="center">CSE Student | ML learner | Problem Solver</h3>
 
-<!--
-**mdfahim15164-cell/mdfahim15164-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Photo (Replace with your image link) -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFSuvF1BHwZWw/profile-displaybackgroundimage-shrink_350_1400/B56Zs3wCkKHAAY-/0/1766166903677?e=1773273600&v=beta&t=N3mNGuz5fUZE10mjiULiEY21ZjJPDjDl1734WwzTNq4" width="200" style="border-radius: 50%;" alt="Fahim Profile Photo"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goal
+- 📚 Mastering **Data Structures & Algorithms**
+- 💻 Becoming a Strong Problem Solver
+- 🤖 Learning **Machine Learning** (Primary Focus)
+- 🚀 Building Real-World Projects
+
+---
+
+## 👨‍🎓 About Me
+- 🎓 CSE Student at Islamic University, Bangladesh  
+- 🌱 Currently learning **DSA & Machine Learning **
+- 💡 Interested in AI, Algorithms, and Software Development  
+- 🔥 Consistent learner & self-improvement focused  
+
+---
+
+## 🛠️ Skills
+### 💻 Programming Languages
+- C  
+- C++  
+
+### 📚 Core Knowledge
+- Data Structures  
+- Problem Solving  
+- Algorithms (Basic to Intermediate)
+
+### 🔧 Tools & Technologies
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📈 Learning Roadmap (2026)
+- 📌 Advanced Data Structures 
+- 📌 Competitive Programming
+- 📌 Machine Learning Fundamentals     
+- 📌 AI Projects  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdfahim15164-cell&show_icons=true&theme=github_dark" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/mdfahim15164-cell
+
+---
+
+⭐ *“Consistency + Hard Work = Success in Tech”*
