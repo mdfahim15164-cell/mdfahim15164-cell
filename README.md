@@ -4,7 +4,10 @@
 
 <!-- Profile Photo (Replace with your image link) -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFSuvF1BHwZWw/profile-displaybackgroundimage-shrink_350_1400/B56Zs3wCkKHAAY-/0/1766166903677?e=1773273600&v=beta&t=N3mNGuz5fUZE10mjiULiEY21ZjJPDjDl1734WwzTNq4" width="200" style="border-radius: 50%;" alt="Fahim Profile Photo"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFSuvF1BHwZWw/profile-displaybackgroundimage-shrink_350_1400/B56Zs3wCkKHAAY-/0/1766166903677?e=1773273600&v=beta&t=N3mNGuz5fUZE10mjiULiEY21ZjJPDjDl1734WwzTNq4" 
+       width="350" 
+       style="border-radius: 50%;" 
+       alt="Fahim Profile Photo"/>
 </p>
 
 ---
@@ -48,12 +51,6 @@
 - 📌 Machine Learning Fundamentals     
 - 📌 AI Projects  
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdfahim15164-cell&show_icons=true&theme=github_dark" />
-</p>
 
 ---
 
@@ -62,4 +59,4 @@
 
 ---
 
-⭐ *“Consistency + Hard Work = Success in Tech”*
+⭐ *“it may be humanly possible”*
